@@ -7,7 +7,6 @@ import java.sql.SQLException;
 public class DoubleCheckThreadSafeMySqlConnection {
     private static Connection connection;
     private DoubleCheckThreadSafeMySqlConnection(){
-
     }
     public static synchronized  Connection getConnection(){
         if (null ==connection){
