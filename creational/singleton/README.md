@@ -16,3 +16,10 @@
 ## 1). Eager Initialization 
 ### a). In Eager singleton type instance of class is created at the time of class loading.
 ### b). Drawback of this type is approach is even user does not use ,object is created
+
+## 2). Static block initialization
+### a). Instance of class is created in static block which is similar to eager singleton.
+
+## 3). Lazy Initialization
+### a). In case of lazy initialization in public method we check if object already exists or not based on that we create object
+
