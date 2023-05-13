@@ -12,11 +12,12 @@ public class DatabaseImageService implements EventImage {
     }
 
     private void loadedImageFromDatabase(String imageName) {
-        loadedImage="LOADED_"+imageName;
+        loadedImage=imageName;
+        System.out.println("Loading Image ");
     }
 
     @Override
     public void displayImage() {
-        System.out.println(loadedImage);
+        System.out.println("Displaying:-: "+loadedImage);
     }
 }
