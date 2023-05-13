@@ -1,4 +1,4 @@
-# Prototype design pattern
+# Builder design pattern
 
 ## This pattern is used when 
 ### 1). Object creation is costly 
