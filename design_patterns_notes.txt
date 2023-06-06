@@ -1,7 +1,7 @@
 ﻿Singleton Design pattern
-Java Singleton Pattern is one of the Gangs of Four Design patterns and comes in the Creational Design Pattern category.
+Java Singleton Pattern is one of the Gangs of Four Design patterns and comes in the Creation Design Pattern category.
 
-->It is creational design pattern, delas with cotrolling creation of java objects
+->It is creation design pattern, delay with controlling creation of java objects
 ->Only one instance of class should exist 
 ->Other classes should be able to get instance of Singleton class.
 ->Used in Logging,Cache,Drivers,Session
@@ -26,7 +26,7 @@ other than this very class.)
 I never thought i would find
 
 A SMILE that stoles my heart,
-A MIRRACLE that made me believe in wonders,
+A MIRACLE that made me believe in wonders,
 A NAME that i would love to say it again and again,
 A PERSON standing next to her make me feel like king of the world,
 A PROMISE for life time,

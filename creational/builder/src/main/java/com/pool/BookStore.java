@@ -5,7 +5,7 @@ public class BookStore {
         Book book= new Book.BookBuilder()
                            .setAutherName("Shiva")
                            .setName("Don't be prisoner")
-                            .setGanar("Life")
+                            .setGanee("Life")
                             .setPrice(88)
                             .setGetNumberOfPages(88)
                             .setNumberOfChapters(8)

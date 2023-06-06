@@ -15,7 +15,7 @@ public class Book {
     public Book(BookBuilder bookBuilder) {
         this.name=bookBuilder.name;
         this.autherName=bookBuilder.autherName;
-        this.ganar=bookBuilder.ganar;
+        this.ganar=bookBuilder.ganee;
         this.numberOfChapters=bookBuilder.numberOfChapters;
         this.getNumberOfPages=bookBuilder.getNumberOfPages;
         this.publisher=bookBuilder.publisher;
@@ -53,7 +53,7 @@ public class Book {
 
         private String name;
         private String autherName;
-        private String ganar;
+        private String ganee;
         private int numberOfChapters;
         private int getNumberOfPages;
         private double price;
@@ -72,8 +72,8 @@ public class Book {
             return this;
         }
 
-        public BookBuilder setGanar(String ganar) {
-            this.ganar = ganar;
+        public BookBuilder setGanee(String ganee) {
+            this.ganee = ganee;
             return this;
         }
 
