@@ -8,9 +8,9 @@
     <version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
     <modules>
-        <module>creational</module>
-        <module>structural</module>
-        <module>behavioral</module>
+        <module>creational-design</module>
+        <module>structural-design</module>
+        <module>behavioral-design</module>
         <module>miscellaneous</module>
         <module>miscellaneous/dao</module>
         <module>miscellaneous/dependency_injection</module>
