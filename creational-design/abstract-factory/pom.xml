@@ -9,7 +9,7 @@
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 
-    <artifactId>abstract_factory</artifactId>
+    <artifactId>abstract-factory</artifactId>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>

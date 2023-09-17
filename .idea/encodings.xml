@@ -3,44 +3,44 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/abstractfactory/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/abstractfactory/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/behavioral/chain_of_responsibility/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/behavioral/chain_of_responsibility/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/behavioral/command/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/behavioral/command/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/behavioral/interpreter/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/behavioral/interpreter/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/behavioral/iterator/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/behavioral/iterator/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/behavioral/mediator/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/behavioral/mediator/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/behavioral/memento/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/behavioral/memento/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/behavioral/observer/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/behavioral/observer/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/behavioral/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/behavioral/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/behavioral/state/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/behavioral/state/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/behavioral/strategy/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/behavioral/strategy/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/behavioral/template/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/behavioral/template/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/behavioral/visitor/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/behavioral/visitor/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/behavioral-design/chain-of-responsibility/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/behavioral-design/chain-of-responsibility/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/behavioral-design/command/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/behavioral-design/command/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/behavioral-design/interpreter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/behavioral-design/interpreter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/behavioral-design/iterator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/behavioral-design/iterator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/behavioral-design/mediator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/behavioral-design/mediator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/behavioral-design/memento/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/behavioral-design/memento/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/behavioral-design/observer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/behavioral-design/observer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/behavioral-design/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/behavioral-design/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/behavioral-design/state/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/behavioral-design/state/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/behavioral-design/strategy/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/behavioral-design/strategy/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/behavioral-design/template/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/behavioral-design/template/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/behavioral-design/visitor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/behavioral-design/visitor/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/builder/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/builder/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/creational/abstract_factory/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/creational/abstract_factory/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/creational/builder/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/creational/builder/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/creational/factory/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/creational/factory/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/creational/prototype/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/creational/prototype/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/creational/singleton/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/creational/singleton/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/creational/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/creational/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/creational-design/abstract-factory/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/creational-design/abstract-factory/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/creational-design/builder/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/creational-design/builder/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/creational-design/factory/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/creational-design/factory/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/creational-design/prototype/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/creational-design/prototype/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/creational-design/singleton/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/creational-design/singleton/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/creational-design/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/creational-design/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/factory/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/factory/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/miscellaneous/dao/src/main/java" charset="UTF-8" />
@@ -57,21 +57,21 @@
     <file url="file://$PROJECT_DIR$/singleton/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/structural/adapter/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/structural/adapter/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/structural/bridge/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/structural/bridge/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/structural/composite/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/structural/composite/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/structural/decorator/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/structural/decorator/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/structural/facade/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/structural/facade/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/structural/flyweight/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/structural/flyweight/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/structural/proxy/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/structural/proxy/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/structural/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/structural/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/structural-design/adapter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/structural-design/adapter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/structural-design/bridge/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/structural-design/bridge/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/structural-design/composite/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/structural-design/composite/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/structural-design/decorator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/structural-design/decorator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/structural-design/facade/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/structural-design/facade/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/structural-design/flyweight/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/structural-design/flyweight/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/structural-design/proxy/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/structural-design/proxy/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/structural-design/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/structural-design/src/main/resources" charset="UTF-8" />
   </component>
 </project>

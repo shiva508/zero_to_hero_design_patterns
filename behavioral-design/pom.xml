@@ -14,7 +14,7 @@
     <modules>
         <module>template</module>
         <module>mediator</module>
-        <module>chain_of_responsibility</module>
+        <module>chain-of-responsibility</module>
         <module>observer</module>
         <module>strategy</module>
         <module>command</module>

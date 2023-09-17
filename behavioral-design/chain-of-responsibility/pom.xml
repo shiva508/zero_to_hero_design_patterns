@@ -9,7 +9,7 @@
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 
-    <artifactId>chain_of_responsibility</artifactId>
+    <artifactId>chain-of-responsibility</artifactId>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
