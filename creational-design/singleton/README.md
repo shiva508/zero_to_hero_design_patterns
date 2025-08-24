@@ -6,6 +6,9 @@
 ### 2). Singleton class must provide public global access point get singleton Object.
 ### 3). Singleton pattern used in Logging, Caching,Drivers,Thread pool.
 ### 4). Singleton used in core java like Runtime class
+### 5). Class is responsible to create its own instance and provide access to that instance.
+### 6). It is static in nature.
+### 7). Need be thread safe.
 
 ## Implementation Steps
 ### 1). Class Should have private constructor which restricts from other class instantiate.
