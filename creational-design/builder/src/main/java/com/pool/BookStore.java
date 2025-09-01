@@ -2,7 +2,7 @@ package com.pool;
 
 public class BookStore {
     public static void main(String[] args) {
-        Book book= new Book.BookBuilder()
+        Book book = new Book.BookBuilder()
                            .setAutherName("Shiva")
                            .setName("Don't be prisoner")
                             .setGanee("Life")
@@ -11,5 +11,7 @@ public class BookStore {
                             .setNumberOfChapters(8)
                             .build();
         System.out.println(book);
+        StringBuilder stringBuilder =new StringBuilder();
+        stringBuilder.append("hello").append("world").append("java");
     }
 }
